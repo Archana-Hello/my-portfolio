@@ -9,8 +9,7 @@ import '../App.css';
     <h1> Hello I'm <span className="magic-name">Archana</span> </h1>
     <h2>Full Stack Developer</h2>
     <p>Skilled in HTML5, CSS3, Javascript, React.js, Java & MySQL. Experience in 3D Architectural Design & Admin/HR roles </p>
-    <button className="btn-primary" onClick={() => window.open}>View My GitHub</button>
-    {/* <button onClick={() => window.open('https://github.com/archana-dev')}></button> */}
+    <button className="btn-primary" onClick={() => window.open('https://github.com/Archana-Hello/my-portfolio', '_blank')}>View My GitHub</button>
     </div>
 </section>
     );

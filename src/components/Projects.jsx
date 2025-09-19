@@ -19,17 +19,14 @@ function Projects() {
             <div className="project-card">
                 <h3>🌐 My Portfolio Website</h3>
                 <p>Showcase website using React.js for personal branding.</p>
-                <p><strong>Technologies:</strong> React.js, HTML5, CSS3</p>
-
+                <p><strong>Technologies:</strong> React.js, HTML5, CSS3</p>   
             </div>
 
             <div className="project-card">
                 <h3>📚 Personal Library Tracker</h3>
                 <p>Web app to track personal books. Features CRUD with MySQL integration.</p>
                 <p><strong>Technologies:</strong> MySQL</p>
-
             </div>
-
             </div>
 
         </section>
@@ -37,3 +34,25 @@ function Projects() {
 }
 
 export default Projects;
+
+
+
+
+//  <a
+//                 href="https://lucky-llama-0d606d.netlify.app/"
+//                 target="_blank"
+//                 rel="noopener noreferrer"
+//                 className="project-btn"
+//             >
+//       🔗 Live Site
+//             </a>
+//             <a
+//                 href="https://github.com/Archana-Hello/my-portfolio"
+//                 target="_blank"
+//                 rel="noopener noreferrer"
+//                 className="project-btn"
+//             >
+//                 <br />
+//       💻 View Code
+//             </a>
+            
